@@ -1,0 +1,15 @@
+# Ignorar pastas de configuração do IntelliJ
+.idea/
+*.iml
+
+# Ignorar ficheiros compilados (a pasta out que tens cheia de .class)
+out/
+bin/
+*.class
+
+# Ignorar ficheiros de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar ficheiros temporários do Visual Paradigm (se existirem)
+*.vpp.lck
