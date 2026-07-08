@@ -19,7 +19,6 @@ Sistema de gestão de restaurante, desenvolvido com o objetivo de apoiar process
 
 - Java
 - MySQL/MariaDB
-- Maven/Gradle
 - Git/GitHub
 
 ## Como executar
